@@ -1,0 +1,1 @@
+Add your six photos here named photo-1.jpg, photo-2.jpg, ... photo-6.jpg. Replace the placeholder paths in index.html if you use other names.
